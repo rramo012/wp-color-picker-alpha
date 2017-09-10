@@ -2,7 +2,7 @@
   "name": "wp-color-picker-alpha",
   "version": "1.0.0",
   "description": "Overwrite Automattic Iris for enabled Alpha Channel in wpColorPicker",
-  "main": "index.js",
+  "main": "dist/wp-color-picker-alpha.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
